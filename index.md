@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Software & Systems Engineer
+# Software & Systems Engineer (Placeholder Text Only - Not guaranteed to be accurate)
 
 Multidisciplinary engineer focused on systems performance, infrastructure reliability, and analytical problem-solving. I'm drawn to environments where engineering directly drives measurable outcomes, and where rigor, curiosity, and autonomy are valued.
 
@@ -114,11 +114,6 @@ Linux Kernel Internals • Profiling (perf, Valgrind, gdb) • Distributed Syste
 ### Infrastructure & DevOps
 Kubernetes • Docker • Terraform • GitLab CI/CD • Ansible • AWS/GCP • Monitoring (Prometheus, Grafana, Jaeger)
 
-### Certifications
-- **Bloomberg Market Concepts (BMC)** - Bloomberg LP
-- **GPU Computing with CUDA** - Udemy
-- **Options Trading** - Options Industry Council
-- **Machine Learning Specialization** - Stanford/Coursera
 
 ---
 
