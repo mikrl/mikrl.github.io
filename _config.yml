@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-academic
 title: Michael K Lynch
 description: Software & Systems Engineer | High-Performance Computing | Quantitative Development
 # logo: /assets/img/logo.png
@@ -7,7 +7,7 @@ show_downloads: false
 # Social links
 github_username: mikrl
 linkedin_username: mikr-lynch
-email: mikrlynch@gmail.com
+# email: mikrlynch@gmail.com
 
 # SEO
 author: Michael K Lynch
