@@ -1,7 +1,7 @@
 # Michael K Lynch - Personal Portfolio
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://mikrl.github.io)
-[![Jekyll](https://img.shields.io/badge/Built%20with-Jekyll-red)](https://jekyllrb.com/)
+<!-- [![Jekyll](https://img.shields.io/badge/Built%20with-Jekyll-red)](https://jekyllrb.com/) -->
 
 Personal portfolio and professional website showcasing my work in software engineering, systems performance, and quantitative development.
 
@@ -20,27 +20,6 @@ This is my personal GitHub Pages site featuring:
 - **GitHub Pages** - Hosting
 - **Jekyll Minimal Theme** - Base theme
 - **Custom SCSS** - Enhanced styling
-
-## 📂 Repository Structure
-
-```
-mikrl.github.io/
-├── _config.yml              # Jekyll configuration
-├── index.md                 # Main content page
-├── assets/
-│   └── css/
-│       └── style.scss       # Custom styles
-└── README.md                # This file
-```
-
-## 🎨 Customization
-
-The site uses the Jekyll Minimal theme with custom styling. Key customizations:
-
-- **Color Scheme**: Professional blue palette (`#1e40af`, `#3730a3`, `#2563eb`)
-- **Typography**: Inter font family with optimized readability
-- **Responsive Design**: Mobile-first approach
-- **Accessibility**: WCAG compliant with focus states and semantic HTML
 
 ## 🔧 Local Development
 
@@ -71,7 +50,7 @@ The main content is in `index.md`. To update:
 
 ## 📧 Contact
 
-- **Email**: [mikrlynch@gmail.com](mailto:mikrlynch@gmail.com)
+<!-- - **Email**: [mikrlynch@gmail.com](mailto:mikrlynch@gmail.com) -->
 - **LinkedIn**: [linkedin.com/in/mikr-lynch](https://www.linkedin.com/in/mikr-lynch/)
 - **GitHub**: [github.com/mikrl](https://github.com/mikrl)
 
